@@ -1,6 +1,6 @@
-Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
-Name: begin
-Maintainer: Mikael Nordin <mik@elnord.in> on Sun, 27 Jan 2013 10:38:50 +0100
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: begin
+Upstream-Contact: Mikael Nordin <mik@elnord.in>
 Source: https://github.com/mickenordin/begin/
 
 Copyright: 2011-2013 Mikael Nordin <mik@elnord.in>
